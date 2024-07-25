@@ -1,4 +1,4 @@
-Phishing emails, disguised as legitimate communication, pose a significant threat in today’s digital landscape.
+Phishing emails, disguised as legitimate communication, pose a significant threat in today’s digital landscape.
 These deceptive emails attempt to extract sensitive information
 or induce malicious actions from recipients, making them a
 potent tool for cybercriminals. This research delves into the
