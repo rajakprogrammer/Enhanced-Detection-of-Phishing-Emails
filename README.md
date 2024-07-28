@@ -19,3 +19,7 @@ might be trying to deceive the recipient. Out of the total,
 typical non-malicious communications. The remaining 7,328
 are identified as ’Phishing Email’, indicating they could be
 potential threats
+
+
+**Citation**
+https://www.sciencedirect.com/science/article/pii/S187705092400646X
